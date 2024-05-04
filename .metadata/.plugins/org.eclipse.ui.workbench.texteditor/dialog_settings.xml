@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="FR_INVALID_NAME"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="FR_INVALID_NAME"/>
+			<item value="HAL_ADC_ConvCpltCallback"/>
+			<item value="ADC_EXTERNALTRIG2_T2_TRGO"/>
+			<item value="__HAL_RCC_TIM2_CLK_ENABLE"/>
+			<item value="__HAL_RCC_TIM2_CLK_ENABLE();"/>
+			<item value="__HAL_RCC_ADC1_CLK_ENABLE"/>
+			<item value="__HAL_RCC_ADC1_CLK_ENABLE();"/>
+			<item value="__HAL_TIM_ENABLE_DMA"/>
+			<item value="__HAL_TIM_ENABLE_DMA(&amp;htim6, TIM_DMA_UPDATE);"/>
+			<item value="DMA1"/>
+			<item value="Channel"/>
+			<item value="Channrl"/>
+			<item value="DMA_MEMORY_TO_PERIPH"/>
+			<item value="UP"/>
+			<item value="DMA_HandleTypeDef"/>
+		</list>
+		<list key="replacehistory">
+			<item value="coord_to_MSByte_LSByte"/>
+			<item value="color_to_MSByte_LSByte"/>
+			<item value="color_to_MSByte_LSByte "/>
+			<item value="coord_to_MSB_LSB"/>
+			<item value="dec_coord_to_MSB_LSB"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1201"/>
+		<item key="DIALOG_Y_ORIGIN" value="287"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="490"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

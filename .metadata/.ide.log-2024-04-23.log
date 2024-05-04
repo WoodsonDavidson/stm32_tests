@@ -1,0 +1,28 @@
+2024-04-23 13:48:36,074 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 13:48:38,092 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 13:48:40,111 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 13:49:30,850 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 13:49:32,859 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 14:04:11,085 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 14:04:13,093 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 14:04:15,101 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 14:06:49,223 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:18:09,492 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:19:44,330 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:19:46,340 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:21:18,952 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:21:20,960 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:21:22,980 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:24:39,406 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:38:36,412 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 15:53:24,761 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 16:06:32,428 [INFO] Activator:176 - 
+
+
+2024-04-23 16:06:32,430 [INFO] Activator:177 - !SESSION log4j initialized
+2024-04-23 16:06:37,064 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-04-23 16:07:05,225 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-04-23 16:07:05,226 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-04-23 16:07:05,228 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024-04-23 16:42:48,000 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-04-23 16:42:50,010 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out

@@ -1,0 +1,28 @@
+15:54:59 **** Incremental Build of configuration Debug for project SDIO_FATFS_DMA ****
+make -j12 all 
+arm-none-eabi-gcc "../Middlewares/Third_Party/FatFs/src/ff.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../FATFS/Target -I../FATFS/App -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FatFs/src -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Middlewares/Third_Party/FatFs/src/ff.d" -MT"Middlewares/Third_Party/FatFs/src/ff.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Middlewares/Third_Party/FatFs/src/ff.o"
+arm-none-eabi-gcc -o "SDIO_FATFS_DMA.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Dmitrii\Desktop\stm32projs\SDIO_FATFS_DMA\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="SDIO_FATFS_DMA.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: SDIO_FATFS_DMA.elf
+ 
+arm-none-eabi-size   SDIO_FATFS_DMA.elf 
+arm-none-eabi-objdump -h -S  SDIO_FATFS_DMA.elf  > "SDIO_FATFS_DMA.list"
+   text	   data	    bss	    dec	    hex	filename
+  25228	     20	   3300	  28548	   6f84	SDIO_FATFS_DMA.elf
+Finished building: default.size.stdout
+ 
+Finished building: SDIO_FATFS_DMA.list
+ 
+15:55:03 **** Incremental Build of configuration Debug for project SDIO_FATFS_DMA ****
+make -j12 all 
+arm-none-eabi-size   SDIO_FATFS_DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25228	     20	   3300	  28548	   6f84	SDIO_FATFS_DMA.elf
+Finished building: default.size.stdout
+ 
+15:55:33 **** Incremental Build of configuration Debug for project SDIO_FATFS_DMA ****
+make -j12 all 
+arm-none-eabi-size   SDIO_FATFS_DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25228	     20	   3300	  28548	   6f84	SDIO_FATFS_DMA.elf
+Finished building: default.size.stdout
+ 

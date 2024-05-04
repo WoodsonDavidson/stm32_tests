@@ -1,0 +1,5 @@
+../Core/Src/main.c:67:5:main	8	static
+../Core/Src/main.c:147:6:DDS_SystemClockConfig	4	static
+../Core/Src/main.c:160:6:DDS_GPIOC_PIN13_CONFIG	4	static
+../Core/Src/main.c:169:6:DDS_toggle_PIN13	4	static
+../Core/Src/main.c:208:6:Error_Handler	4	static,ignoring_inline_asm

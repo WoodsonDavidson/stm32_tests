@@ -1,0 +1,20 @@
+2023-12-21 12:43:35,486 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 12:43:37,496 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 12:43:39,500 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 12:43:41,541 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 12:43:54,875 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-12-21 12:43:54,876 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-12-21 12:43:54,880 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-12-21 12:43:54,880 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-12-21 12:43:54,880 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2023-12-21 14:53:38,576 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 14:53:40,585 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 14:53:42,588 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 14:53:54,246 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-12-21 14:53:56,262 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-12-21 18:00:10,289 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 18:00:12,295 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 18:00:14,301 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 18:00:16,325 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 18:00:18,335 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-12-21 18:00:20,346 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out

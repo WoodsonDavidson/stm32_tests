@@ -1,0 +1,80 @@
+2023-11-22 09:29:54,555 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 09:34:01,029 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 09:34:03,041 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 09:34:05,042 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 09:55:02,771 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:05,793 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:07,813 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:09,838 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:11,893 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:14,911 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:22,928 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:24,944 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:55:26,958 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:57:05,451 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:57:07,463 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:57:09,470 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:57:11,495 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 09:57:13,501 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 09:57:15,515 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:00:32,174 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:00:34,184 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:00:37,191 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:00:47,395 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:00:49,402 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:00:51,414 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:09:46,711 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 10:09:48,725 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:09:51,745 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:18:22,591 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:18:24,594 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:18:26,596 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:18:34,588 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:18:37,612 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:18:39,615 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:21:32,727 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:21:34,739 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:21:36,747 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 10:21:39,781 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:21:41,783 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:21:43,797 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:23:22,571 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:23:24,583 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:23:27,602 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:23:34,295 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 10:23:37,322 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 10:23:39,341 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2023-11-22 12:30:05,650 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 12:44:53,575 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 12:44:55,584 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 13:12:09,186 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 13:12:18,482 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 13:25:06,142 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 13:25:09,437 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:10:30,437 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:26:25,539 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:26:56,689 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:27:00,351 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:34:16,193 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:34:18,203 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:34:20,212 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:34:29,791 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:34:31,803 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:35:26,049 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:35:28,052 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:35:30,292 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2023-11-22 14:35:32,302 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2023-11-22 14:35:34,306 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2023-11-22 14:35:36,321 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2023-11-22 14:35:40,101 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 14:35:42,102 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 15:56:51,812 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 15:56:53,815 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 15:56:57,013 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2023-11-22 15:56:59,022 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2023-11-22 15:57:01,028 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: connect timed out
+2023-11-22 15:57:36,357 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 15:57:38,358 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 15:57:40,372 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2023-11-22 16:04:07,671 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-11-22 16:04:09,679 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out

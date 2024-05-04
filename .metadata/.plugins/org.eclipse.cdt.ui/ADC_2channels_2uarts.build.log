@@ -1,0 +1,24 @@
+18:17:09 **** Incremental Build of configuration Debug for project ADC_2channels_2uarts ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'HAL_TIM_PeriodElapsedCallback':
+../Core/Src/main.c:361:23: warning: unused variable 'ress1' [-Wunused-variable]
+  361 |     HAL_StatusTypeDef ress1 = HAL_UART_Transmit(&huart1, &adc_val[0], 4, HAL_MAX_DELAY);
+      |                       ^~~~~
+../Core/Src/main.c:353:20: warning: unused variable 'adc_start_ok' [-Wunused-variable]
+  353 |  HAL_StatusTypeDef adc_start_ok = HAL_ADC_Start(&hadc1);
+      |                    ^~~~~~~~~~~~
+arm-none-eabi-gcc -o "ADC_2channels_2uarts.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\Dmitrii\Desktop\stm32projs\ADC_2channels_2uarts\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="ADC_2channels_2uarts.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: ADC_2channels_2uarts.elf
+ 
+arm-none-eabi-size   ADC_2channels_2uarts.elf 
+arm-none-eabi-objdump -h -S  ADC_2channels_2uarts.elf  > "ADC_2channels_2uarts.list"
+   text	   data	    bss	    dec	    hex	filename
+  11400	     20	   1836	  13256	   33c8	ADC_2channels_2uarts.elf
+Finished building: default.size.stdout
+ 
+Finished building: ADC_2channels_2uarts.list
+ 
+
+18:17:10 Build Finished. 0 errors, 2 warnings. (took 807ms)
+

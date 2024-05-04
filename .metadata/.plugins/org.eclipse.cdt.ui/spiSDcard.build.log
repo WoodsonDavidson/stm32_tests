@@ -1,0 +1,10 @@
+17:28:41 **** Build of configuration Debug for project spiSDcard ****
+make -j12 all 
+arm-none-eabi-size   spiSDcard.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13416	     28	   2772	  16216	   3f58	spiSDcard.elf
+Finished building: default.size.stdout
+ 
+
+17:28:41 Build Finished. 0 errors, 0 warnings. (took 363ms)
+

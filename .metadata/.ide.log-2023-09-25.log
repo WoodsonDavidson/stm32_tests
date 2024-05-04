@@ -1,0 +1,9 @@
+2023-09-25 10:00:34,174 [INFO] Activator:176 - 
+
+
+2023-09-25 10:00:34,180 [INFO] Activator:177 - !SESSION log4j initialized
+2023-09-25 10:00:39,475 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-09-25 10:01:04,813 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-09-25 10:01:04,813 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-09-25 10:01:04,815 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-09-25 13:29:56,964 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out

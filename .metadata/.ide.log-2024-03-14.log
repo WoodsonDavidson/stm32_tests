@@ -1,0 +1,40 @@
+2024-03-14 11:29:57,672 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:57,674 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:57,674 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:57,674 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:57,677 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:58,377 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:58,377 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:58,377 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:58,377 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:29:58,377 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:45,597 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:45,598 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:45,598 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:45,598 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:45,598 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:46,450 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:46,450 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:46,450 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:46,450 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 11:30:46,451 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-14 12:02:00,959 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:02:00,959 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:02:00,959 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:02:01,426 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:02:01,426 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:02:01,426 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:14:42,987 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:14:42,987 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:14:42,987 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:14:43,451 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:14:43,452 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:14:43,452 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:15:26,072 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:15:26,073 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:15:26,073 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:15:26,596 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:15:26,596 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 12:15:26,597 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-14 14:17:44,377 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-14 14:17:46,392 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out

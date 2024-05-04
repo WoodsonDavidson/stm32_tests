@@ -1,0 +1,5 @@
+main.c:67:5:main	1
+main.c:147:6:DDS_SystemClockConfig	2
+main.c:160:6:DDS_GPIOC_PIN13_CONFIG	1
+main.c:169:6:DDS_toggle_PIN13	1
+main.c:208:6:Error_Handler	1

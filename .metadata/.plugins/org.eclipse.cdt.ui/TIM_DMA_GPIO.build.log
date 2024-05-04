@@ -1,0 +1,10 @@
+11:37:26 **** Incremental Build of configuration Debug for project TIM_DMA_GPIO ****
+make -j12 all 
+arm-none-eabi-size   TIM_DMA_GPIO.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10664	     20	   1740	  12424	   3088	TIM_DMA_GPIO.elf
+Finished building: default.size.stdout
+ 
+
+11:37:26 Build Finished. 0 errors, 0 warnings. (took 328ms)
+

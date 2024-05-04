@@ -1,0 +1,21 @@
+2024-02-06 13:40:51,060 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:40:51,063 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:40:51,063 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:44:49,908 [INFO] Activator:176 - 
+
+
+2024-02-06 13:44:49,910 [INFO] Activator:177 - !SESSION log4j initialized
+2024-02-06 13:44:53,088 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-02-06 13:44:53,345 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:44:53,349 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:44:53,349 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:45:18,551 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-02-06 13:45:18,552 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-02-06 13:45:18,553 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024-02-06 13:48:25,804 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:48:25,804 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:48:25,805 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:48:49,160 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:48:49,161 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:48:49,161 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-02-06 13:52:24,927 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out

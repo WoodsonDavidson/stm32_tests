@@ -1,0 +1,26 @@
+2024-04-10 08:52:14,308 [INFO] Activator:176 - 
+
+
+2024-04-10 08:52:14,313 [INFO] Activator:177 - !SESSION log4j initialized
+2024-04-10 08:52:19,403 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-04-10 08:52:44,881 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-04-10 08:52:44,882 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-04-10 08:52:44,883 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024-04-10 09:58:58,773 [INFO] Activator:176 - 
+
+
+2024-04-10 09:58:58,775 [INFO] Activator:177 - !SESSION log4j initialized
+2024-04-10 09:59:03,334 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-04-10 09:59:30,250 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-04-10 09:59:30,251 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-04-10 09:59:30,253 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024-04-10 10:22:09,965 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-04-10 10:47:38,742 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-04-10 10:56:52,472 [INFO] Activator:176 - 
+
+
+2024-04-10 10:56:52,474 [INFO] Activator:177 - !SESSION log4j initialized
+2024-04-10 10:56:56,497 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-04-10 10:57:19,382 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-04-10 10:57:19,383 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-04-10 10:57:19,384 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.

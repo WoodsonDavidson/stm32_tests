@@ -1,0 +1,95 @@
+2024-03-18 11:32:51,856 [INFO] Activator:176 - 
+
+
+2024-03-18 11:32:51,861 [INFO] Activator:177 - !SESSION log4j initialized
+2024-03-18 11:32:57,282 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2024-03-18 11:33:23,698 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024-03-18 11:33:23,699 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024-03-18 11:33:23,701 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024-03-18 11:35:34,267 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:34,267 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:34,268 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:34,268 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:34,269 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:37,347 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:37,348 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:37,348 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:37,348 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 11:35:37,349 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 13:36:02,075 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 13:36:04,080 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 13:36:06,095 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:11:25,208 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-18 14:11:25,209 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-18 14:11:25,209 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-18 14:11:25,233 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-18 14:11:25,233 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-18 14:11:25,233 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2024-03-18 14:12:30,585 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:12:32,587 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:12:34,597 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:12:36,629 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:12:38,639 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:12:40,657 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:16:41,706 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:41,706 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:41,706 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:41,706 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:41,707 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:44,736 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:44,736 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:44,737 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:44,737 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:16:44,737 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 14:38:46,842 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:38:48,850 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:38:50,864 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:38:52,876 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:38:54,885 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:38:59,874 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:39:01,893 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:39:03,895 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:39:05,904 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:39:07,907 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:41:10,789 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:41:12,800 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:41:14,805 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 14:41:57,776 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:41:59,783 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:42:01,796 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:42:03,812 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:42:05,824 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:42:10,626 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:42:12,636 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:42:14,639 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:42:16,644 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:49:41,468 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 14:49:43,479 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-03-18 15:19:38,413 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:19:40,416 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:35:14,205 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:35:16,210 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:35:18,215 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:35:20,247 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:35:22,254 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:35:24,272 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:36:51,270 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:36:53,276 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:36:55,292 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:36:57,325 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:36:59,332 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:37:01,335 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:48:10,286 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:48:12,289 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:48:14,301 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:50:03,694 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-03-18 15:50:16,378 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:16,379 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:16,379 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:16,379 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:16,379 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:19,890 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:19,891 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:19,891 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:19,891 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net
+2024-03-18 15:50:19,891 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.UnknownHostException: stmicroelectronics.d3.sc.omtrdc.net

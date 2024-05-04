@@ -1,0 +1,10 @@
+17:28:40 **** Build of configuration Debug for project ledBlinkREG ****
+make -j12 all 
+arm-none-eabi-size   ledBlinkREG.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1576	     20	   1572	   3168	    c60	ledBlinkREG.elf
+Finished building: default.size.stdout
+ 
+
+17:28:40 Build Finished. 0 errors, 0 warnings. (took 361ms)
+

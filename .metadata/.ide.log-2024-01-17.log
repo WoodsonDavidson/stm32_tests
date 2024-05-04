@@ -1,0 +1,9 @@
+2024-01-17 11:01:42,797 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-01-17 13:00:16,579 [ERROR] ConfigurationRetriever:142 - IOException on connection: connect timed out
+2024-01-17 14:43:42,509 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-01-17 14:43:44,523 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-01-17 14:43:46,527 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-01-17 15:17:34,766 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-01-17 15:17:36,782 [ERROR] ConfigurationRetriever:142 - IOException on connection: Read timed out
+2024-01-17 15:17:41,078 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2024-01-17 15:17:43,082 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out

@@ -1,0 +1,55 @@
+18:10:39 **** Incremental Build of configuration Debug for project f103_ADC_test ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc "../Core/Src/stm32f1xx_hal_msp.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/stm32f1xx_hal_msp.d" -MT"Core/Src/stm32f1xx_hal_msp.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/stm32f1xx_hal_msp.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:116:11: warning: unused variable 'i' [-Wunused-variable]
+  116 |   uint8_t i = 0;
+      |           ^
+../Core/Src/main.c:113:11: warning: unused variable 'uart_question_sign_0v' [-Wunused-variable]
+  113 |   uint8_t uart_question_sign_0v[] = {0x30, 0x56};
+      |           ^~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:112:11: warning: unused variable 'uart_question_sign_3d3v' [-Wunused-variable]
+  112 |   uint8_t uart_question_sign_3d3v[] = {0x33, 0x2E, 0x33, 0x20, 0x56};
+      |           ^~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:111:11: warning: unused variable 'uart_tx_data' [-Wunused-variable]
+  111 |   uint8_t uart_tx_data[] = {0,0};
+      |           ^~~~~~~~~~~~
+../Core/Src/main.c:105:21: warning: unused variable 'uart_rx_ok' [-Wunused-variable]
+  105 |   HAL_StatusTypeDef uart_rx_ok;
+      |                     ^~~~~~~~~~
+../Core/Src/main.c:104:21: warning: unused variable 'adc_poll_ok' [-Wunused-variable]
+  104 |   HAL_StatusTypeDef adc_poll_ok;
+      |                     ^~~~~~~~~~~
+../Core/Src/main.c:103:21: warning: unused variable 'adc_stop_ok' [-Wunused-variable]
+  103 |   HAL_StatusTypeDef adc_stop_ok;
+      |                     ^~~~~~~~~~~
+../Core/Src/main.c:102:21: warning: variable 'adc_start_ok' set but not used [-Wunused-but-set-variable]
+  102 |   HAL_StatusTypeDef adc_start_ok;
+      |                     ^~~~~~~~~~~~
+../Core/Src/main.c:78:20: warning: unused variable 'adc_pol_ok' [-Wunused-variable]
+   78 |  HAL_StatusTypeDef adc_pol_ok;
+      |                    ^~~~~~~~~~
+../Core/Src/main.c:77:11: warning: unused variable 'ADC_val3' [-Wunused-variable]
+   77 |  uint32_t ADC_val3 = 0;
+      |           ^~~~~~~~
+../Core/Src/main.c:76:11: warning: unused variable 'ADC_val2' [-Wunused-variable]
+   76 |  uint32_t ADC_val2 = 0;
+      |           ^~~~~~~~
+../Core/Src/main.c:75:11: warning: unused variable 'ADC_val1' [-Wunused-variable]
+   75 |  uint32_t ADC_val1 = 0;
+      |           ^~~~~~~~
+arm-none-eabi-gcc -o "f103_ADC_test.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\Dmitrii\Desktop\stm32projs\f103_ADC_test\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="f103_ADC_test.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: f103_ADC_test.elf
+ 
+arm-none-eabi-size   f103_ADC_test.elf 
+arm-none-eabi-objdump -h -S  f103_ADC_test.elf  > "f103_ADC_test.list"
+   text	   data	    bss	    dec	    hex	filename
+   9244	     20	   1700	  10964	   2ad4	f103_ADC_test.elf
+Finished building: default.size.stdout
+ 
+Finished building: f103_ADC_test.list
+ 
+
+18:10:40 Build Finished. 0 errors, 12 warnings. (took 810ms)
+
